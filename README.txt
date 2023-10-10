@@ -7,3 +7,6 @@ run 'python3 dimmer.py' and set the brightness you wish from 10-100.
 - tested on linux mint.
 
 - I needed this because sometimes i study or watch tv series while my girlfriend is sleeping beside me, and she is sensible to the screeen light. i tried to dim the screen with os settings and laptop settings but i could go lower a certain point, but it was still too bright. the problem is fixed with this .py file.
+
+
+Needed: pip install pystray

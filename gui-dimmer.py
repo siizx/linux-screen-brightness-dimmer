@@ -23,6 +23,7 @@ def update_brightness(value):
 # Create a simple tkinter window
 window = tk.Tk()
 window.title("Brightness Control")
+window.geometry("400x200")
 
 # Create a brightness scale
 brightness_label = tk.Label(window, text="Brightness")
